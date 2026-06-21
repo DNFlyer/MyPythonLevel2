@@ -175,4 +175,4 @@ else:
 
 time.sleep(2)
 
-print("\n--- End of Program ---")
+print("\nTHE END!!")
